@@ -1,0 +1,71 @@
+.eth {
+  height: 18px;
+  font-weight: 500;
+  cursor: pointer;
+  font-size: 14px;
+  color: rgb(247, 248, 250);
+
+}
+.flex {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  padding-left: 8px;
+  margin-top: -20px;
+}
+.btc{
+  margin-left: 3px;
+}
+.sol{
+  margin-left: 1px;
+}
+.logo1 {
+  margin-right: 30px;
+}
+.kfonkE.ACTIVE {
+  font-weight: 700;
+  border-radius: 0px;
+  -webkit-box-pack: center;
+  justify-content: center;
+  color: rgb(247, 248, 250);
+  margin-left: 10px;
+}
+html,
+.flpwfc {
+
+    width: 100%;
+    border: 1px solid;
+    background: #000206 !important;
+}
+@-webkit-keyframes animatedgradient {
+  0% {
+    background-position: 0 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  to {
+    background-position: 0 50%;
+  }
+}
+@keyframes animatedgradient {
+  0% {
+    background-position: 0 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  to {
+    background-position: 0 50%;
+  }
+}
+::-webkit-scrollbar {
+  width: 8px;
+  height: 100%;
+  background-color: #f1f1f1;
+  border-radius: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #d0d0d0;
+  border-radius: 8px;
+}
