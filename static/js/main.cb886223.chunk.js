@@ -21554,7 +21554,7 @@
                             className:'flex',
                             children:[
                                 Object(A.jsx)("img", { src:"https://www.ethetftoken.xyz/images/icons/eth.svg", alt: "Icon", className:"eth"}),
-                                Object(A.jsx)("p", { id:"Ethereum", className:"eth",children:'Etherum'}),
+                                Object(A.jsx)("p", { id:"Ethereum", className:"eth",children:'Ethereum'}),
                             ]
                           }),
                           Object(A.jsx)(Hi, {
